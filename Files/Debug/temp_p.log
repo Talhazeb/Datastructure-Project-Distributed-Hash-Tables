@@ -1,0 +1,9 @@
+﻿  temp_p.cpp
+C:\Users\talha\source\repos\Data_Structure_Project\temp_p\temp_p.cpp(471,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\talha\source\repos\Data_Structure_Project\temp_p\temp_p.cpp(523,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\talha\source\repos\Data_Structure_Project\temp_p\temp_p.cpp(554,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\talha\source\repos\Data_Structure_Project\temp_p\temp_p.cpp(577,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\talha\source\repos\Data_Structure_Project\temp_p\temp_p.cpp(720,9): warning C4101: 'li': unreferenced local variable
+C:\Users\talha\source\repos\Data_Structure_Project\temp_p\temp_p.cpp(711,10): warning C4101: 'check': unreferenced local variable
+C:\Users\talha\source\repos\Data_Structure_Project\temp_p\temp_p.cpp(131): warning C4715: 'List<int>::find': not all control paths return a value
+  temp_p.vcxproj -> C:\Users\talha\source\repos\Data_Structure_Project\temp_p\Debug\temp_p.exe
